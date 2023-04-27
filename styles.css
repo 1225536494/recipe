@@ -1,0 +1,41 @@
+/*
+IDs:
+div id="centCont"
+menu id="sharePrintMenu"
+section id="recipeStub"
+section id="recipeIng"
+section id="recipeDir"
+nav id="mainNav"
+div id="menuButton"
+div id="homeNav"
+div id="menuBar"
+div id="search"
+input id="siteSearchBar"
+button id="searchButton"
+menu id="socialMenu"
+footer id="siteFooter"
+main id="main"
+aside id="SuggAside"
+
+classes: 
+figure class="suggRecipe"
+ul class="rate"
+figure class="menuImg"
+img class="menuImg"
+div id="menuSignIn"
+
+Colors:
+Smoky Black #0D0D0D
+Anti-Flash White #F2F2F2
+Moonstone Blue #7ABFBF
+Moonstone Blue(alpha modified) rgba(122, 191, 191, .5) #7abfbf80
+Flame #EB5428
+*/
+
+html {
+    background-color: aqua;
+}
+
+menu, .rate {
+    list-style: none;
+}
