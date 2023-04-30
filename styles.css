@@ -433,6 +433,10 @@ footer img {
         background-color: rgba(242,242,242,.3);
     }
 
+    #suggAside img {
+        margin-bottom: 10px;
+    }
+
 }
 
 @media screen and (min-width:1280px) {
